@@ -19,7 +19,7 @@ Software:
 
 Setup and build:
 - Connect the board pins to the breadboard
-- Connect 1 male to male cable to the GND hole for the board and to the corresponding "-" hole
+- Connect 1 male to male cable to the 3V3 hole for the board and to the corresponding "-" hole
 - Connect 1 male to male cable to the GND hole for the board and to the corresponding "+" hole
 - Connect the board to the Micro USB cable and to the device
 
